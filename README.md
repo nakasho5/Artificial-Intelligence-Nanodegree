@@ -8,4 +8,4 @@
 5. [Career Services](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/tree/main/Project5_Career%20Services)
 
 ## Certificate
-![](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/blob/main/Deep%20Learning%20Nanodegree%20Certificate.png)
+![](https://github.com/ShoNakamura5/Artificial-Intelligence-Nanodegree/blob/main/Artificial%20Intelligence%20Nanodegree%20Certificate.pdf)
