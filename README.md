@@ -8,4 +8,4 @@
 
 
 ## Certificate
-![](https://github.com/ShoNakamura5/Artificial-Intelligence-Nanodegree/blob/main/Artificial%20Intelligence%20Nanodegree%20Certificate.pdf)
+![](https://github.com/ShoNakamura5/Artificial-Intelligence-Nanodegree/blob/main/Artificial%20Intelligence%20Nanodegree%20Certificate.png)
