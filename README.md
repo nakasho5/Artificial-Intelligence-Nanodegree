@@ -6,6 +6,5 @@
 3. [Build an Adversarial Game Playing Agent](https://github.com/ShoNakamura5/Artificial-Intelligence-Nanodegree/tree/main/Project3:%20Build%20an%20Adversarial%20Game%20Playing%20Agent)
 4. [HMM Tagger](https://github.com/ShoNakamura5/Artificial-Intelligence-Nanodegree/tree/main/Project4:%20HMM%20Tagger)
 
-
 ## Certificate
 ![](https://github.com/ShoNakamura5/Artificial-Intelligence-Nanodegree/blob/main/Artificial%20Intelligence%20Nanodegree%20Certificate.png)
